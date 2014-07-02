@@ -1,0 +1,201 @@
+body{
+    background-color:#ffffff;
+    background-image:url('background.jpg');
+}
+
+p {
+    text-align:center;
+    font-family:feijoa;
+    color:#333333;
+}
+
+h1 {
+    text-align:center;
+    font-family:feijoa;
+    color:#333333;
+}
+
+h2 {
+    text-align:center;
+    font-family:feijoa;
+    color:#333333;
+}
+
+h3 {
+    text-align:center;
+    font-family:feijoa;
+    color:#333333;
+}
+
+h4 {
+    text-align:center;
+    font-family:feijoa;
+    color:#333333;
+}
+
+h5 {
+    text-align:center;
+    font-family:feijoa;
+    color:#333333;
+}
+
+div.tab{
+    margin-left:10px;
+}
+
+main{
+    margin-left:auto;
+    margin-right:auto;
+    width:1900px;
+}
+
+#heading{
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    height:100px;
+}
+
+#heading h1{
+    text-align:left;
+    font-family:feijoa;
+    color:#333333;
+    font-size:3em;
+}
+
+#title{
+    margin-left:50;
+    margin-right:auto;
+    width:600px;
+    height:100px;
+}
+
+#attentionDiv{
+    width:220px;
+    height:220px;
+}
+
+#structure{
+    margin-left:auto;
+    margin-right:auto;
+    width:1500px;
+}
+
+#sideBar{
+    width:400px;
+}
+
+#sideNavBar{
+    width:200px;
+    margin-left:0px;
+}
+
+#extrasPanel{
+    width:0px;
+    height:1200px;
+    border-width:2px;
+    background-color:#333333;
+}
+
+#extrasPanel h1 {
+    text-align:center;
+    font-family:feijoa;
+    color:#dddddd;
+}
+
+#extrasPanel h2 {
+    text-align:center;
+    font-family:feijoa;
+    color:#dddddd;
+}
+
+#extrasPanel h3 {
+    text-align:center;
+    font-family:feijoa;
+    color:#dddddd;
+}
+
+div.anim{
+    border-style:outset;
+    border-width:2px;
+
+    background-color:#333333;
+    width:150px;
+    height:30px;
+    
+    text-align:center;
+    font-family:feijoa;
+    color:#dddddd;
+    font-size:1.5em;
+}
+
+div.controlPanel{
+    width:700px;
+    height:50px;
+    margin-left:auto;
+}
+
+#content{
+    text-align:center;
+    width:1350px;
+    height:850px;
+    background-color:#333333;
+    border-style:outset;
+}
+
+#content p {
+    text-align:left;
+    font-family:feijoa;
+    color:#dddddd;
+    font-size:0.8em;
+}
+
+#content h1 {
+    text-align:center;
+    font-family:feijoa;
+    color:#dddddd;
+}
+
+#content h2 {
+    text-align:center;
+    font-family:feijoa;
+    color:#dddddd;
+}
+
+#content h3 {
+    text-align:left;
+    font-family:feijoa;
+    color:#dddddd;
+}
+
+#content h4 {
+    text-align:left;
+    font-family:feijoa;
+    color:#dddddd;
+}
+
+#content h5 {
+    text-align:left;
+    font-family:feijoa;
+    color:#dddddd;
+}
+
+#key1{
+    background-color:#FF0000;
+}
+
+#key2{
+    background-color:#0000FF;
+}
+
+#key3{
+    background-color:#FF00FF;
+}
+
+#key4{
+    background-color:#00FF00;
+}
+
+#scrollButtons{
+    padding-left:150px;
+}
